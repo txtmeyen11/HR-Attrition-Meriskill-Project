@@ -3,14 +3,16 @@ Problem:
 Perusahaan mengalami tingkat churn (perpindahan karyawan) yang tinggi, dan manajemen ingin memahami faktor-faktor yang mungkin menyebabkan hal ini melalui hasil visualisasi yang telah dilakukan
 
 Tasks to perform: 
-1.	Data Cleaning:
+
+1. Data Cleaning:
 •	Deleting redundant columns: Kolom redundan dalam dataset ini adalah ['EmployeeCount','Over18','StandardHours','EmployeeNumber'] Drop kolom redundan dilakukan untuk mengurangi kelebihan informasi atau variabilitas yang tidak diperlukan dalam dataset.
 
 •	Dropping duplicates: Tidak ditemukan data duplikat dalam dataset ini
 
 •	Cleaning individual columns and	Remove the NaN values from the dataset : Tidak ditemukan missing values dan data NaN dalam dataset ini
 
-4.	Data Visualization: 
+2. Data Visualization:
+   
 •	Plot a correlation map for all numeric variables
 
 •	Overtime 
