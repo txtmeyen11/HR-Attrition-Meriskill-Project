@@ -5,6 +5,7 @@ Perusahaan mengalami tingkat churn (perpindahan karyawan) yang tinggi, dan manaj
 Tasks to perform: 
 
 1. Data Cleaning:
+   
 •	Deleting redundant columns: Kolom redundan dalam dataset ini adalah ['EmployeeCount','Over18','StandardHours','EmployeeNumber'] Drop kolom redundan dilakukan untuk mengurangi kelebihan informasi atau variabilitas yang tidak diperlukan dalam dataset.
 
 •	Dropping duplicates: Tidak ditemukan data duplikat dalam dataset ini
